@@ -1,9 +1,5 @@
 # 🛒 BlinkIT Grocery Sales Analysis
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](#-dashboard)
-[![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?logo=microsoftexcel&logoColor=white)](#-dataset-overview)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
-
 An end-to-end sales analysis of **BlinkIT** (India's quick-commerce grocery platform) built with **Microsoft Power BI**. The project cleans and models retail transaction data, defines key business metrics with DAX, and presents them in a single interactive dashboard covering sales performance across items, outlets, and locations.
 
 > 👤 **Author:** Md Nasir Hussain
