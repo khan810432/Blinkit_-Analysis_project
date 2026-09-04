@@ -113,7 +113,7 @@ Slicers for **Outlet Location Type**, **Outlet Size**, and **Item Type** to filt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone [https://github.com/khan810432/Blinkit_-Analysis_project.git]
    ```
 2. Open `blinkit_project.pbix` in **Power BI Desktop** ([download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)).
 3. If prompted, update the data source path to point to `BlinkIT_Grocery_Data.xlsx` on your machine.
